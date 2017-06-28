@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">Dialogs</string>
+
+    <string name="title">Título de prueba</string>
+    <string name="description">Descripción de prueba de dialog personalizado, Descripción de prueba de dialog personalizado</string>
+
+    <string name="accept_button">Aceptar</string>
+</resources>
